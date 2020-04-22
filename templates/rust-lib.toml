@@ -1,0 +1,5 @@
+name = "rust-lib"
+description = "Base Library with all the trimmings"
+repository = "https://github.com/johnstonskj/rust-lib-template.git"
+language = "rust"
+
